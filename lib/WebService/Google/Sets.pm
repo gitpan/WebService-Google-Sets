@@ -45,7 +45,7 @@ use vars qw(@EXPORT @EXPORT_OK @ISA $VERSION);
 # do this or EXPORT as there are only two functions?
 @EXPORT_OK = qw( get_small_gset get_large_gset );
 
-$VERSION = '0.01';
+$VERSION = '0.03';
 
 # remove once checked in to svn.
 #%EXPORT_TAGS = (

@@ -7,4 +7,6 @@ README
 META.yml
 t/pod-coverage.t
 t/WebServiceGoogleSets.t
+t/pod.t
+t/test-kwalitee.t
 Makefile.PL
